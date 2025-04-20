@@ -1,0 +1,15 @@
+{
+    "name": "weather-alert-dashboard",
+    "version": "1.0.0",
+    "description": "Interactive dashboard that visualizes NWWS weather alerts with audio and polygon mapping",
+    "main": "script.js",
+    "scripts": {
+      "start": "node script.js"
+    },
+    "dependencies": {
+      "@xmpp/client": "^0.13.0",
+      "express": "^4.18.2",
+      "socket.io": "^4.7.2"
+    }
+  }
+  
